@@ -1,0 +1,19 @@
+# Configuración privada
+wp-config.php
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Copias de seguridad
+*.sql
+*.zip
+*.tar
+*.gz
+
+# Caché
+wp-content/cache/
+
+# Dependencias
+node_modules/
+vendor/

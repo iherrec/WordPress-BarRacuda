@@ -1,0 +1,22 @@
+.no-vineta {
+    list-style-type: none;
+}
+
+.display-1 {
+    font-size: 3rem !important;
+}
+
+.accent {
+    color: rgb(225, 190, 100) !important ;
+}
+
+article.post .bordered {
+    border: 1px solid rgba(181, 181, 181, .8);
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+ul.last-entries {
+    list-style-type: none;
+
+}
